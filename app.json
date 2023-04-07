@@ -49,7 +49,7 @@
          "value": "1820525265"
       },
       "STRING_SESSION": {
-         "description": "Fill with telethon string session get it form https://replit.com/@MISSKRISTY/MISS-KRISTY.",
+         "description": "Fill with program string session get it form https://replit.com/@MISSKRISTY/MISS-KRISTY.",
          "required": true,
          "value": "" 
       },
