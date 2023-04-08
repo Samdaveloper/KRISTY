@@ -15,12 +15,12 @@ class Config(object):
     API_ID = 123456  # integer value, dont use "" this sign get it form my.telegram.org
     API_HASH = "" # get it form my.telegram.org
     TOKEN = ""  # get it form @botfather.
-    OWNER_ID = 1820525265  # got to @miss_kristy_bot and type /id
-    OWNER_USERNAME = "I_AM_PRO_KING" # your telegram username
+    OWNER_ID = "5864436910"  # got to @miss_kristy_bot and type /id
+    OWNER_USERNAME = "lover_jerry" # your telegram username
     ALLOW_CHATS = True # leave it as it is
-    BOT_USERNAME = "MISS_KRISTY_BOT" # your bot username get it form @botfather
-    SUPPORT_CHAT = "TEAMXTRON"  # Your own group for support, do not add the @ if you dont have leave it as it is
-    UPDATES_CHANNEL = "TEAMX_TRON"  # Your own chsnnel for support, do not add the @ if you dont have leave it as it is
+    BOT_USERNAME = "Tha_x_mahi_bot" # your bot username get it form @botfather
+    SUPPORT_CHAT = "maitri_chi_duniya"  # Your own group for support, do not add the @ if you dont have leave it as it is
+    UPDATES_CHANNEL = "king_x_network"  # Your own chsnnel for support, do not add the @ if you dont have leave it as it is
     JOIN_LOGGER =  (
         -1001690301851
     )  # add @miss_kristy_bot in your group and type /id
@@ -49,19 +49,19 @@ class Config(object):
     INFOPIC = True
     URL = None
     SPAMWATCH_API = ""  # go to support.spamwat.ch to get key
-    SPAMWATCH_SUPPORT_CHAT = "@TEAMXTRON"
+    SPAMWATCH_SUPPORT_CHAT = "@maitri_chi_duniya"
 
 
     # OPTIONAL
     ##List of id's -  (not usernames) for users which have sudo access to the bot.
-    DRAGONS = [1820525265]
+    DRAGONS = [5864436910]
     ##List of id's - (not usernames) for developers who will have the same perms as the owner
-    DEV_USERS = [1820525265]
+    DEV_USERS = [5864436910]
     ##List of id's (not usernames) for users which are allowed to gban, but can also be banned.
-    DEMONS = [1820525265]
+    DEMONS = [5864436910]
     # List of id's (not usernames) for users which WONT be banned/kicked by the bot.
-    TIGERS = [1820525265]
-    WOLVES = [1820525265]
+    TIGERS = [5864436910]
+    WOLVES = [5864436910]
     START_IMG = "https://te.legra.ph/file/4c19a38ab1e2ab5e94b67.jpg" #yor fav img link
     CERT_PATH = None
     PORT = 5000
