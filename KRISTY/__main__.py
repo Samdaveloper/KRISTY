@@ -106,19 +106,19 @@ PM_START_TEXT = """
 buttons = [
         [
         InlineKeyboardButton(
-            text="ᴀᴅᴅ ᴍᴇ", url=f"t.me/{bu}?startgroup=true"
+            text="★ᴀᴅᴅ ᴍᴇ★", url=f"t.me/{bu}?startgroup=true"
         )
     ],
     [
-        InlineKeyboardButton(text="ᴄᴏᴍᴍᴀɴᴅꜱ", callback_data="help_back"),
+        InlineKeyboardButton(text="★ᴄᴏᴍᴍᴀɴᴅꜱ★", callback_data="help_back"),
     ],
     [
-        InlineKeyboardButton(text="ᴀʙᴏᴜᴛ", callback_data="KRISTY_"),
-        InlineKeyboardButton(text="ᴏᴡɴᴇʀ", url=f"https://t.me/{OWNER_USERNAME}"),
+        InlineKeyboardButton(text="★ᴀʙᴏᴜᴛ★", callback_data="KRISTY_"),
+        InlineKeyboardButton(text="★ᴏᴡɴᴇʀ★", url=f"https://t.me/{OWNER_USERNAME}"),
     ],
     [
-        InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ ", url=f"https://t.me/{SUPPORT_CHAT}"),
-        InlineKeyboardButton(text="ᴜᴘᴅᴀᴛᴇs", url=f"https://t.me/{UPDATES_CHANNEL}"),
+        InlineKeyboardButton(text="★sᴜᴘᴘᴏʀᴛ★ ", url=f"https://t.me/{SUPPORT_CHAT}"),
+        InlineKeyboardButton(text="★ᴜᴘᴅᴀᴛᴇs★", url=f"https://t.me/{UPDATES_CHANNEL}"),
     ],
 ]
 
@@ -285,11 +285,11 @@ def start(update: Update, context: CallbackContext):
                 [
                     [
                         InlineKeyboardButton(
-                            text="ʜᴇʟᴘ",
+                            text="★ʜᴇʟᴘ★",
                             url=f"https://t.me/{bu}?start=help",
                         ),
                         InlineKeyboardButton(
-                            text="ᴏᴡɴᴇʀ",
+                            text="★ᴏᴡɴᴇʀ★",
                             url=f"https://t.me/{OWNER_USERNAME}",
                         ),
                     ],
@@ -439,11 +439,11 @@ def KRISTY_about_callback(update, context):
             reply_markup=InlineKeyboardMarkup(
                 [
                  [
-        InlineKeyboardButton(text="ᴏᴡɴᴇʀ", url=f"https://t.me/{OWNER_USERNAME}"),
-        InlineKeyboardButton(text="ᴅᴇᴠᴇʟᴏᴘᴇʀ", url=f"https://t.me/i_am_pro_king"),
+        InlineKeyboardButton(text="★ᴏᴡɴᴇʀ★", url=f"https://t.me/{OWNER_USERNAME}"),
+        InlineKeyboardButton(text="★ᴅᴇᴠᴇʟᴏᴘᴇʀ★", url=f"https://t.me/lover_jerry"),
                  ],
                  [
-        InlineKeyboardButton(text="ꜱᴏᴜʀᴄᴇ", url=f"https://github.com/TEAM-XTRON/KRISTY"),
+        InlineKeyboardButton(text="★ꜱᴏᴜʀᴄᴇ★", url=f"https://graph.org/file/f9baf2c549e950016c260.jpg"),
                  ],
                  [
                     InlineKeyboardButton(text="◁", callback_data="KRISTY_back"),
@@ -788,7 +788,7 @@ def main():
 » **ꜱQʟᴀʟᴄʜᴇᴍʏ :** `1.4.31`
 ━━━━━━━━━━━━━
 
-⍟ ᴘᴏᴡᴇʀᴇᴅ ʙʏ : [𝙆𝙍𝙄𝙎𝙏𝙔](https://t.me/TEAMXTRON)
+⍟ ᴘᴏᴡᴇʀᴇᴅ ʙʏ : [●⃝✘⚚𓂆𓂇𝐃🕊.⋆](https://t.me/lover_jerry)
 
 """,
                 parse_mode=ParseMode.MARKDOWN,
